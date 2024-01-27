@@ -1,4 +1,4 @@
-# Competitive-Programming setup for Sublime Text editor
+# Competitive-Programming setup in Sublime Text editor
 
 ## C++14 Sublime build for Mac Users (OS X):
 
