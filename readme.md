@@ -13,7 +13,7 @@
 ### Tips :
 
 - You can use COMMAND + shift + B to directly compile run.
-- You can use 3 pane setup to view code, input file and output file at once (^ + SHIFT + 3).
+- You can use 3 pane setup to view code, input file and output file at once (View > Group > New group).
 
 ### To install gcc in OS X:
 
@@ -27,6 +27,9 @@ brew install gcc
 brew install coreutils
 ```
 
-## Note: Change the version of gcc in the sublime build accrodingly based on what you have installed. I'm using gcc-13 
+### Note: Change the version of gcc in the sublime build accrodingly based on what you have installed. I'm using gcc-13 
 
 ### This is how the setup looks:
+
+![image](https://github.com/mounishvatti/competitive-programming-setup/assets/76279858/8705c78e-bd76-44e1-968e-420585c61d9f)
+
